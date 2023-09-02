@@ -1,8 +1,8 @@
-<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="400" width="1080" frameborder="0" scrolling="no" >
+<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="300" width="1080" frameborder="0" scrolling="no" >
 <h1 align="center">Hi 👋, I'm Muhammad Haris Ahsan</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haris-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="haris-mughal" /> </p>
-<img align="right" alt="Coder GIF" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
