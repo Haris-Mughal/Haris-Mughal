@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="300" width="1080" frameborder="0" scrolling="no" >
 <h1 align="center">Hi 👋, I'm Muhammad Haris Ahsan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">MERN Stack Developer & A Real-time Firebase Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haris-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="haris-mughal" /> </p>
 <img align="right" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
