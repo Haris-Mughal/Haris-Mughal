@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="370" width="1080" frameborder="0" scrolling="no" >
+<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080" frameborder="0" scrolling="no" >
 <h1 align="center">Hi 👋, I'm Muhammad Haris Ahsan</h1>
 <h3 align="center">MERN Stack Developer & A Real-time Firebase Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haris-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="haris-mughal" /> </p>
