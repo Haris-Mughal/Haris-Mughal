@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
+<a href="https://app.daily.dev/you_call_me_harii_"><img src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=8nc" width="400" alt="Muhammad Haris Ahsan's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/haris-mughal-825113249/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haris-mughal-825113249/" height="30" width="40" /></a>
