@@ -43,7 +43,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> &nbsp; <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
-<a href="https://app.daily.dev/you_call_me_harii_"><img src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=95w" width="400" alt="Muhammad Haris Ahsan's Dev Card"/></a>
+<a href="https://app.daily.dev/you_call_me_harii_"><img src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=95w" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
 
