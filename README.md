@@ -28,8 +28,6 @@
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp; 
@@ -66,6 +64,8 @@
 <a href="https://dev.to/you_call_me_harii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="you_call_me_harii_" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Trophy:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
 
