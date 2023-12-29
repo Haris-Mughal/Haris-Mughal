@@ -24,9 +24,9 @@
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
-![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
-
 <a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=95w" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
+
+![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
