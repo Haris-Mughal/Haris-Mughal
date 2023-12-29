@@ -26,6 +26,7 @@
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
+<a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=95w" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
@@ -65,7 +66,6 @@
 <a href="https://dev.to/you_call_me_harii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="you_call_me_harii_" height="30" width="40" /></a>
 </p>
 
-<a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=95w" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
 
