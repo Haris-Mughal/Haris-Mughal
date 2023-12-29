@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="500" alt="haris-mughal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/haris_mughal007" target="blank"><img src="https://img.shields.io/twitter/follow/haris_mughal007?logo=twitter&style=for-the-badge" alt="haris_mughal007" /></a> </p>
 
 - 🔭 I’m currently working on **Learning Projects**
@@ -25,6 +23,8 @@
 - 📄 Know about my experiences of Programing
 
 - ⚡ Fun fact **I’m Lazy but Smart**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
