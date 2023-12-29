@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
-<p align="right">[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)]</p>
+< align="right">[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)]</a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
