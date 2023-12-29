@@ -24,6 +24,11 @@
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
+> You need to add **?theme=dracula** parameter.
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
