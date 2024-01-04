@@ -73,6 +73,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-mughal&" alt="haris-mughal" /></p>
 <hr />
+
 ![image](https://github.com/Haris-Mughal/Haris-Mughal/assets/112110110/7eb2d428-5fa9-42d0-82bf-64acc64386a1)
 
 
