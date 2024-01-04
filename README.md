@@ -55,10 +55,14 @@
 <a href="https://twitter.com/haris_mughal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haris_mughal007" height="30" width="40" /></a>
 <a href="https://dev.to/you_call_me_harii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="you_call_me_harii_" height="30" width="40" /></a>
 </p>
-
+<br />
+<hr />
+<br />
 <h2 align="center">Trophy:</h2>
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
+<br />
+<br />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
