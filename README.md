@@ -45,7 +45,7 @@
 
 <hr/>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">🤝🏻 Connect with me 🤝🏻</h2>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/haris-mughal-825113249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haris-mughal-825113249/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/22488003/haris-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/22488003/haris-mughal" height="30" width="40" /></a>
@@ -58,7 +58,7 @@
 <br />
 <hr />
 
-<h2 align="center">Trophy:</h2>
+<h2 align="center">🏆 Trophy 🏆</h2>
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
