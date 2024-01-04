@@ -30,10 +30,10 @@
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
+<br />
+<br />
+<br />
 <hr />
-<br />
-<br />
-<br />
 
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div >
