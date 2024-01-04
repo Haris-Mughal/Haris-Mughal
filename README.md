@@ -57,13 +57,13 @@
 </p>
 <br />
 <hr />
-<br />
+
 <h2 align="center">Trophy:</h2>
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
-<br />
-<br />
 
+<br />
+<hr />
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
