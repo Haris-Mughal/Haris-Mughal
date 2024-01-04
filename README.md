@@ -74,6 +74,9 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-mughal&" alt="haris-mughal" /></p>
 <hr />
 
+const originalString = 'I am Haris Mughal';
+const encodedString = btoa(originalString);
+console.log(encodedString);
 
 
 
