@@ -26,13 +26,13 @@
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
-<a href="https://app.daily.dev/you_call_me_harii_"><img align="left" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=3xq" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
+![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
-<span align="right>![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)<span>
+<a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=3xq" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div >
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,nextjs,express,firebase," />
     <img src="https://skillicons.dev/icons?i=mongodb,github,figma,nodejs,python,tailwind,git,nodejs,python,java," />
     <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,cpp,photoshop,illustrator,vscode,postman," />
