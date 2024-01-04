@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb,github,figma,nodejs,python,tailwind,git,nodejs,python,java," />
     <img src="https://skillicons.dev/icons?i=express,firebase,cpp,photoshop,illustrator,vscode,postman," />
 </div>
-
+ 
 <hr/>
 
 <h2 align="center">🤝🏻 Connect with me 🤝🏻</h2>
