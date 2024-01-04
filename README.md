@@ -41,7 +41,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,nextjs,express,firebase," />
     <img src="https://skillicons.dev/icons?i=mongodb,github,figma,nodejs,python,tailwind,git,nodejs,python,java," />
     <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,cpp,photoshop,illustrator,vscode,postman," />
-<hr>
 </div>
 
 <hr/>
@@ -60,6 +59,7 @@
 <h2 align="center">Trophy:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a> </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=haris-mughal&show_icons=true&locale=en" alt="haris-mughal" /></p>
