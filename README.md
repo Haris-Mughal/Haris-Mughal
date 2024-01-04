@@ -30,10 +30,9 @@
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
-<hr />
+<hr clasName="m-4 />
 
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<hr/>
 <div >
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,nextjs,express,firebase," />
     <img src="https://skillicons.dev/icons?i=mongodb,github,figma,nodejs,python,tailwind,git,nodejs,python,java," />
