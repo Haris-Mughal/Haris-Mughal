@@ -1,5 +1,7 @@
 <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080" frameborder="0" scrolling="no" >
-<h1 align="center">Hi 👋, I'm Muhammad Haris Ahsan</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haris+Ahsan!;" />
+</h1>
 <h3 align="center">MERN Stack Developer & A Real-time Firebase Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haris-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="haris-mughal" /> </p>
 <img align="right" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
@@ -27,6 +29,15 @@
 <a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=3xq" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+</div>
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
