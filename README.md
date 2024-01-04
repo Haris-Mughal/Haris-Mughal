@@ -30,18 +30,18 @@
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
-<br />
+<hr />
 
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<hr/>
 <div >
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,nextjs,express,firebase," />
     <img src="https://skillicons.dev/icons?i=mongodb,github,figma,nodejs,python,tailwind,git,nodejs,python,java," />
     <img src="https://skillicons.dev/icons?i=express,firebase,mongodb,cpp,photoshop,illustrator,vscode,postman," />
-<br>
+<hr>
 </div>
 
-<br/>
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
