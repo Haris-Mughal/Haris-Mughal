@@ -30,7 +30,10 @@
 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
 
-<hr clasName="m-4 />
+<hr />
+<br />
+<br />
+<br />
 
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div >
