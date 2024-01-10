@@ -71,7 +71,7 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=haris-mughal&show_icons=true&locale=en" alt="haris-mughal" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-mughal&" alt="haris-mughal" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?username=haris-mughal&" alt="haris-mughal" /></p>
 
 
 
