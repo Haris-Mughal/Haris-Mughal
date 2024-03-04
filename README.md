@@ -2,7 +2,7 @@
 <h1 align="center">    
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haris+Ahsan!;" />
 </h1>       
-<h3 align="center">MERN Stack Developer & A Real-time Firebase Developer</h3>
+<h3 align="center">MERN Stack Developer & A Real-time Firebase Developer</h3> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haris-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="haris-mughal" /> </p>
         
 <img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
