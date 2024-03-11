@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **harismirza3456@gmail.com**
 
-- 📄 Know about my experiences of Programing [My Linkedin Account]([github.com/Haris-Mughal](https://www.linkedin.com/in/muhammad-haris-ahsan-825113249/))
+- 📄 Know about my experiences of Programing [My Linkedin Account](linkedin.com/in/muhammad-haris-ahsan-825113249/)
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
