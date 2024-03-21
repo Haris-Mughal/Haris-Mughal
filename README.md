@@ -8,7 +8,7 @@
 <img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
      
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-   
+    
 <p align="left"> <a href="https://twitter.com/haris_mughal007" target="blank"><img src="https://img.shields.io/twitter/follow/haris_mughal007?logo=twitter&style=for-the-badge" alt="haris_mughal007" /></a> </p>
  
 - 🔭 I’m currently working on **Learning Projects**      
