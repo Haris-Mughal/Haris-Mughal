@@ -15,7 +15,7 @@
  
 - 🌱 I’m currently learning **Web App & Mobile App Development** 
  
-- 👯 I’m looking to collaborate on **Development Related Projects**
+- 👯 I’m looking to collaborate on **Development Related Projects** 
 
 - 👨‍💻 All of my projects are available at [My Github Account](github.com/Haris-Mughal)
 
