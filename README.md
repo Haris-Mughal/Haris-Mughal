@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences of Programing [My Linkedin Account](https://www.linkedin.com/in/muhammad-haris-ahsan-825113249/)
 
-- ✌️ Visit my portfolio [here](https://https://muhammad-haris-ahsan.vercel.app/)
+- ✌️ Visit my portfolio [here](https://muhammad-haris-ahsan.vercel.app/)
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
