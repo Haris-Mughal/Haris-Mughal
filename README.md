@@ -11,8 +11,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### [![LeetCode user Muhammad_Haris_Ahsan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMuhammad_Haris_Ahsan&logo=leetcode&logoColor=yellow)](https://leetcode.com/Muhammad_Haris_Ahsan/)
-
-<p align="left"> <a href="https://twitter.com/haris_mughal007" target="blank"><img src="https://img.shields.io/twitter/follow/haris_mughal007?logo=twitter&style=for-the-badge" alt="haris_mughal007" /></a> </p>
   
 - 🔭 I’m currently working on **Learning Projects**        
   
@@ -75,10 +73,23 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
-<p align="center"><img src="https://github-readme-stats-salesp07.vercel.app/api?username=haris-mughal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats-salesp07.vercel.app/api?username=haris-mughal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p> -->
 
-<p align="center">&nbsp;<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=haris-mughal&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
-<p align="center"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=haris-mughal&count_private=true&theme=react&border_radius=10" alt="streak stats" /></p>
+<!-- <p align="center">&nbsp;<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=haris-mughal&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
+<p align="center"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=haris-mughal&count_private=true&theme=react&border_radius=10" alt="streak stats" /></p> -->
+
+<p align="center">
+    <a href="https://github.com/Haris-Mughal">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haris-Mughal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Haris-Mughal&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+ <p align="center">
+   <a href="https://github.com/Haris-Mughal"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haris-Mughal&theme=dracula-official&hide_border=true" /> 
+   </a>  
+ </p>
 
 <hr /> 
 <h2 align="center" ><img src="https://camo.githubusercontent.com/b424f5beea90f8916ffd5c5ffb194be2c3e247ba4496f146ce82908768005d4a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d5468616e6b732b666f722b7669736974696e67212be29c8cefb88f3b2b53686f6f742b6d652b612b6d6573736167652b6f6e2b4c696e6b6564696e213b49276d2b616c776179732b646f776e2b746f2b636f6c6c61622b3a29" /></h2>
