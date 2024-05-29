@@ -5,10 +5,8 @@
 ### Muhammad Haris Ahsan
 [GitHub](https://github.com/Haris-Mughal)
 
-![Followers](https://img.shields.io/github/followers/Haris-Mughal?label=Followers&style=social)
-![Repositories](https://img.shields.io/badge/Repositories-65-blue)
-![Stars](https://img.shields.io/github/stars/Haris-Mughal?label=Stars&style=social)
-![Contributions](https://img.shields.io/badge/Contributions-1937-green)
+![Profile Badge](https://raw.githubusercontent.com/Haris-Mughal/your-repo/main/badge.svg)
+
 
 
 <h1 align="center">      
