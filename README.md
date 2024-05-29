@@ -9,7 +9,9 @@
 <img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
           
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-       
+
+### [![LeetCode user Muhammad_Haris_Ahsan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMuhammad_Haris_Ahsan&logo=leetcode&logoColor=yellow)](https://leetcode.com/Muhammad_Haris_Ahsan/)
+
 <p align="left"> <a href="https://twitter.com/haris_mughal007" target="blank"><img src="https://img.shields.io/twitter/follow/haris_mughal007?logo=twitter&style=for-the-badge" alt="haris_mughal007" /></a> </p>
   
 - 🔭 I’m currently working on **Learning Projects**        
