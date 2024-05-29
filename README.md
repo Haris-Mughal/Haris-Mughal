@@ -1,4 +1,16 @@
 <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080" frameborder="0" scrolling="no" >
+
+# [![Profile](https://github.com/Haris-Mughal.png?size=100)](https://github.com/Haris-Mughal)
+
+### Muhammad Haris Ahsan
+[GitHub](https://github.com/Haris-Mughal)
+
+![Followers](https://img.shields.io/github/followers/Haris-Mughal?label=Followers&style=social)
+![Repositories](https://img.shields.io/badge/Repositories-65-blue)
+![Stars](https://img.shields.io/github/stars/Haris-Mughal?label=Stars&style=social)
+![Contributions](https://img.shields.io/badge/Contributions-1937-green)
+
+
 <h1 align="center">      
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haris+Ahsan!;" />
 </h1>                                   
