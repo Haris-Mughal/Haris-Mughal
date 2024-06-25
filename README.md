@@ -16,7 +16,7 @@
   
 - 🌱 I’m currently learning **Web App & Mobile App Development** 
   
-- 👯 I’m looking to collaborate on **Development Related Projects** 
+- 👯 Visit my [Resume](https://haris-resume.tiiny.site/)
 
 - 👨‍💻 All of my projects are available at [My Github Account](github.com/Haris-Mughal)
 
