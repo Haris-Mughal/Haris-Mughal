@@ -40,6 +40,8 @@
 <a align="center" href="https://app.daily.dev/you_call_me_harii_"><img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
 <br />
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="iamharismughal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/iamharismughal?trk=profile-badge">Muhammad Haris Ahsan</a></div>
+              
 
 <hr />
 
