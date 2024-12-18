@@ -10,7 +10,9 @@
           
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="right">[![LeetCode user Muhammad_Haris_Ahsan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMuhammad_Haris_Ahsan&logo=leetcode&logoColor=yellow)](https://leetcode.com/Muhammad_Haris_Ahsan/)</div>
+<div align="right">
+  [![LeetCode user Muhammad_Haris_Ahsan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMuhammad_Haris_Ahsan&logo=leetcode&logoColor=yellow)](https://leetcode.com/Muhammad_Haris_Ahsan/)
+</div>
 
   
 - 🔭 I’m currently working on **Learning Projects**        
