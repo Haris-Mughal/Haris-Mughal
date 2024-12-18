@@ -5,14 +5,8 @@
 </h1>                                   
 <h3 align="center">Full Stack Developer & A Real-time Project Developer</h3>            
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haris-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="haris-mughal" /> </p>
-                                       
-<div align="right">
-  <a href="https://leetcode.com/Muhammad_Haris_Ahsan/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMuhammad_Haris_Ahsan&logo=leetcode&logoColor=yellow" alt="LeetCode user Muhammad_Haris_Ahsan" />
-  </a>
-</div>
 
-
+    
 <img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
           
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -41,6 +35,7 @@
 - ⚡ Fun fact **I’m Lazy but Smart**
 
 <br />
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=null)
 
 
