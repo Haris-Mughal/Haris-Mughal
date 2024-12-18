@@ -39,6 +39,8 @@
 
 <a align="center" href="https://app.daily.dev/you_call_me_harii_"><img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=null)
 <br />
 <hr />
 
@@ -79,6 +81,7 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=haris-mughal&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
 <p align="center"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=haris-mughal&count_private=true&theme=react&border_radius=10" alt="streak stats" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Haris-mughal&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- <p align="center">
     <a href="https://github.com/Haris-Mughal">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haris-Mughal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
