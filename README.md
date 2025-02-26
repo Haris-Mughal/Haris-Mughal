@@ -38,7 +38,7 @@
 
 <a align="left">![LeetCode Stats](https://leetcard.jacoblin.cool/Muhammad_Haris_Ahsan?ext=heatmap)</a>
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=null) -->
-<a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=3xq" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=3xq" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a> -->
 
 <br />
 <!-- 
@@ -77,7 +77,7 @@
 
 <h2 align="center">🏆 Trophy 🏆</h2>
 <br />
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal&theme=dracula" width="800" alt="haris-mughal" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal&theme=dracula" width="700" alt="haris-mughal" /></a></p>
 
 <br />
 <hr />
