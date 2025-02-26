@@ -41,9 +41,10 @@
 <a href="https://app.daily.dev/you_call_me_harii_"><img align="right" src="https://api.daily.dev/devcards/58a1c7716cbb4bc689a579560ed94120.png?r=3xq" width="300" alt="Muhammad Haris Ahsan's Dev Card"/></a>
 
 <br />
+<!-- 
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)
+-->
 
-<!-- <br /> -->
 <br />
 
 <a align="right" href="https://app.daily.dev/you_call_me_harii_"><img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Muhammad Haris Ahsan's Dev Card"/></a>
