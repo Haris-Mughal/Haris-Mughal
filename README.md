@@ -77,7 +77,7 @@
 
 <h2 align="center">🏆 Trophy 🏆</h2>
 <br />
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a></p>
 
 <br />
 <hr />
