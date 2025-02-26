@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMuhammad_Haris_Ahsan&logo=leetcode&logoColor=yellow" alt="LeetCode user Muhammad_Haris_Ahsan" />
 </a> -->
 
-<br />
   
 - 🔭 I’m currently working on **Learning Projects**        
   
@@ -78,7 +77,7 @@
 
 <h2 align="center">🏆 Trophy 🏆</h2>
 <br />
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-mughal" width="600" alt="haris-mughal" /></a></p>
 
 <br />
 <hr />
@@ -106,6 +105,7 @@
 
 <hr /> 
 <!-- <h2 align="center" ><img src="https://camo.githubusercontent.com/b424f5beea90f8916ffd5c5ffb194be2c3e247ba4496f146ce82908768005d4a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d5468616e6b732b666f722b7669736974696e67212be29c8cefb88f3b2b53686f6f742b6d652b612b6d6573736167652b6f6e2b4c696e6b6564696e213b49276d2b616c776179732b646f776e2b746f2b636f6c6c61622b3a29" /></h2> -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+</h2>
 
