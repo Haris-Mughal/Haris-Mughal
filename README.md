@@ -20,7 +20,7 @@
   
 - 🌱 I’m currently learning **Web App & Mobile App Development** 
   
-- 👯 Explore my [Resume](https://haris-resume.tiiny.site/)
+- 👯 Explore my [Resume](https://haris-cv.tiiny.site/)
 
 - 👨‍💻 All of my projects are available at [My Github Account](github.com/Haris-Mughal)
 
