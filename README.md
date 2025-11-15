@@ -16,10 +16,12 @@
 </a> -->
 
   
-- 🔭 I’m currently working on **Learning Projects**        
+- 🔭 I’m working on **Personal Development**        
   
-- 🌱 I’m currently learning **Web App & Mobile App Development**
+- 🌱 I’m currently preparing for **Fully Funded USA Scholarship**
 
+- 🏆 **TRAE AI IDE: Zero Limits Hackathon Winner** - _LablabAi_ | [Link](https://www.linkedin.com/posts/iamharisahsan_ai-devops-hackathon-activity-7350824566123880450-MA9o)
+ 
 - 🏆 **AIstronauts Hackathon Winner** - _LablabAi_ | [Link](https://www.linkedin.com/posts/iamharisahsan_3rd-wewonthehackathon-spacetech-activity-7297328067763445760-Rgd4)
   
 - 👯 Explore my [Resume](https://haris-cv.tiiny.site/)
