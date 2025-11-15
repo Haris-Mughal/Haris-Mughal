@@ -9,7 +9,7 @@
     
 <img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
           
-<p align="left"> <a href="https://x.com/iamharisahsan" target="blank"><img src="https://img.shields.io/twitter/follow/iamharisahsan?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://x.com/iamharisahsan" target="blank"><img src="https://img.shields.io/twitter/follow/iamharisahsan?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 <p align="left"> <a href="https://x.com/iamharisahsan" target="blank"><img src="https://img.shields.io/twitter/follow/iamharisahsan" alt="" /></a> </p>
 
 
