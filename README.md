@@ -66,7 +66,8 @@
 
 <h2 align="center">🤝🏻 Connect with me 🤝🏻</h2>
 <p align="center">
-<a href="https://linkedin.com/in/iamharisahsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haris-mughal-825113249/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamharisahsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/iamharisahsan/" height="30" width="40" /></a>
+<a href="https://github.com/in/haris-mughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github.com/in/Haris-Mughal/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/22488003/iamharisahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/22488003/haris-mughal" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/iamharisahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100061029926998" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/_iam_haris.ahsan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/you_call_me_harii_/" height="30" width="40" /></a>
