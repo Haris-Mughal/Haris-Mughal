@@ -30,17 +30,7 @@
 
 - 💬 Ask me anything about **Software Engineer** and Anything that can be done with My Laptop + Wifi :)
 
-- 📫 Reach me via:
-    - [LinkedIn](https://www.linkedin.com/in/iamharisahsan/)
-    - [GitHub](https://github.com/Haris-Mughal)
-    - [Portfolio](https://iamharisahsan.vercel.app/)
-    - [LeetCode](https://leetcode.com/u/iamharisahsan/)
-    - [Twitter(X)](https://x.com/iamharisahsan)
-    - Discord username: [iamharisahsan](https://discord.com/users/770216498613452801)
-    - [Facebook](https://www.facebook.com/iamharisahsan/)
-    - [Instagram](https://www.instagram.com/_iam_haris.ahsan_/)
-    - [Topmate](https://topmate.io/iamharisahsan/)
-    - [YouTube](https://youtube.com/@iamharisahsan)
+- 📫 Reach me via email: [harismirza3456@gmail.com](mailto:harismirza3456@gmail.com)
 
 - ✌️ Visit my portfolio [here](https://iamharisahsan.vercel.app/)
 
@@ -76,12 +66,12 @@
 
 <h2 align="center">🤝🏻 Connect with me 🤝🏻</h2>
 <p align="center">
-<a href="https://linkedin.com/in/haris-mughal-825113249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haris-mughal-825113249/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow.com/users/22488003/haris-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/22488003/haris-mughal" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/profile.php?id=100061029926998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100061029926998" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/you_call_me_harii_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/you_call_me_harii_/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammad_haris_ahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad_haris_ahsan" height="30" width="40" /></a>
-<a href="https://twitter.com/haris_mughal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haris_mughal007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamharisahsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haris-mughal-825113249/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/stackoverflow.com/users/22488003/iamharisahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/22488003/haris-mughal" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/iamharisahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/profile.php?id=100061029926998" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/_iam_haris.ahsan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/you_call_me_harii_/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iamharisahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad_haris_ahsan" height="30" width="40" /></a>
+<a href="https://x.com/iamharisahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haris_mughal007" height="30" width="40" /></a>
 <a href="https://dev.to/you_call_me_harii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="you_call_me_harii_" height="30" width="40" /></a> 
 </p>
 <br />
