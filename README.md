@@ -24,17 +24,25 @@
  
 - 🏆 **AIstronauts Hackathon Winner** - _LablabAi_ | [Link](https://www.linkedin.com/posts/iamharisahsan_3rd-wewonthehackathon-spacetech-activity-7297328067763445760-Rgd4)
   
-- 👯 Explore my [Resume](https://haris-cv.tiiny.site/)
+- 👯 Explore my [Resume](https://docs.google.com/document/d/1BUYGGxJVExDqjSR-0dr-JJsNFlsXbPbS-xmJNhPeD04/edit?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [My Github Account](github.com/Haris-Mughal)
+- 👨‍💻 All of my projects are available at [My Github Account](github.com/Haris-Mughal) and [My Portfolio](https://iamharisahsan.vercel.app/)
 
-- 💬 Ask me about **Frontend & Backend Development**
+- 💬 Ask me anything about **Software Engineer** and Anything that can be done with My Laptop + Wifi :)
 
-- 📫 How to reach me **harismirza3456@gmail.com**
+- 📫 Reach me via:
+    - [LinkedIn](https://www.linkedin.com/in/iamharisahsan/)
+    - [GitHub](https://github.com/Haris-Mughal)
+    - [Portfolio](https://iamharisahsan.vercel.app/)
+    - [LeetCode](https://leetcode.com/u/iamharisahsan/)
+    - [Twitter(X)](https://x.com/iamharisahsan)
+    - Discord username: [iamharisahsan](https://discord.com/users/770216498613452801)
+    - [Facebook](https://www.facebook.com/iamharisahsan/)
+    - [Instagram](https://www.instagram.com/_iam_haris.ahsan_/)
+    - [Topmate](https://topmate.io/iamharisahsan/)
+    - [YouTube](https://youtube.com/@iamharisahsan)
 
-- 📄 Know about my experiences of Programing [My Linkedin Account](https://www.linkedin.com/in/muhammad-haris-ahsan-825113249/)
-
-- ✌️ Visit my portfolio [here](https://muhammad-haris-ahsan.vercel.app/)
+- ✌️ Visit my portfolio [here](https://iamharisahsan.vercel.app/)
 
 - ⚡ Fun fact **I’m Lazy but Smart**
 
