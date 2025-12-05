@@ -11,6 +11,8 @@
 
 <!-- [![committers.top badge](https://user-badge.committers.top/pakistan/haris-mughal.svg)](https://user-badge.committers.top/pakistan/haris-mughal) -->
 
+[![committers.top badge](https://user-badge.committers.top/pakistan_public/Haris-Mughal.svg)](https://user-badge.committers.top/pakistan_public/Haris-Mughal)
+
 <a href="https://user-badge.committers.top/pakistan/Haris-Mughal">
   <img src="https://user-badge.committers.top/pakistan/Haris-Mughal.svg" alt="committers.top badge" />
 </a>
