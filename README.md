@@ -9,6 +9,14 @@
     
 <img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 ![committers.top badge](https://user-badge.committers.top/pakistan/haris-mughal.svg)
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/haris-mughal.svg)](https://user-badge.committers.top/pakistan/haris-mughal)
+
+<a href="https://user-badge.committers.top/pakistan/haris-mughal">
+  <img src="https://user-badge.committers.top/pakistan/haris-mughal.svg" alt="committers.top badge" />
+</a>
+
+
 <br>
 <!-- <p align="left"> <a href="https://x.com/iamharisahsan" target="blank"><img src="https://img.shields.io/twitter/follow/iamharisahsan?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 <p align="left"> <a href="https://x.com/iamharisahsan" target="blank"><img src="https://img.shields.io/twitter/follow/iamharisahsan" alt="" /></a> </p>
