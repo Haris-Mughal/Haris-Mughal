@@ -66,6 +66,8 @@
     <img src="https://skillicons.dev/icons?i=mongodb,github,figma,tailwind,git,nodejs,python,java," />
     <img src="https://skillicons.dev/icons?i=firebase,cpp,photoshop,illustrator,vscode,postman,insomnia," />
 </div>
+
+<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="69" height="69" /></div> -->
  
 <hr/>
 
