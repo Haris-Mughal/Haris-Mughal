@@ -18,11 +18,10 @@
 <p align="left"> <a href="https://x.com/iamharisahsan" target="blank"><img src="https://img.shields.io/twitter/follow/iamharisahsan" alt="" /></a> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=iamharisahsan" target="_blank" style="display:flex;flex-direction:column;justify-content:center;padding:7px;text-align:center;outline:none;text-decoration:none;color:#ffffff;width:200px;height:32px;border-radius:16px;background-color:#0A66C2;font-family:'SF Pro Text', Helvetica, sans-serif;">
-    Follow on LinkedIn
+  <a href="https://www.linkedin.com/in/iamharisahsan" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
   </a>
 </p>
-
 
 
 <!-- <a href="https://leetcode.com/Muhammad_Haris_Ahsan/">
